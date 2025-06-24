@@ -6,7 +6,7 @@ Please see LinkedListGenerator.html (or run javadocs on LinkedListGenerator file
 regarding individual functions within the program.
 
 ## Usage
-Used to Sort a list of integers given by a user within the terminal. 
+Used to Sort a list of integers given by a user within the terminal and store them within a LinkedList. 
 Cannot be used to sort Floating values or Non-Numeric Characters.
 
 ## Libraries Required
